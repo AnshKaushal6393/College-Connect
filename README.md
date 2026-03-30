@@ -137,7 +137,7 @@ This project is released under the MIT License. Feel free to use, modify, and di
 ---
 
 ## ✨ Demo
-Coming soon! Stay tuned for a live link to explore the app.
+**Live app:** [https://kietconnect.netlify.app/](https://kietconnect.netlify.app/)
 
 ---
 
